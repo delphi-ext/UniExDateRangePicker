@@ -32,4 +32,4 @@
 
 ## Пример
 
-![alt text](Image\image.png)
+![alt text](image\image.png)
